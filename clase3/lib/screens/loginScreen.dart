@@ -1,7 +1,7 @@
-import 'package:login_app/screens/home_screen.dart';
+import 'package:login_app/screens/homeScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:login_app/utilities/usuarios.dart';
+import 'package:login_app/entidades/usuarios.dart';
 
 class LoginScreen extends StatelessWidget {
   static const String name = 'login';
